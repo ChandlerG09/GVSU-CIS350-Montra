@@ -1,6 +1,6 @@
-Team name:
+Team name: Montra
 
-Team members:
+Team members: Chandler Glowicki
 
 # Introduction
 
