@@ -4,9 +4,9 @@ Project description (~1 paragraph)
 
 ## Team Members and Roles
 
-* Chandler Glowicki (Role 1, Role 2)
-* Brandon Nguyen (Role 3, Role 4)
-* Member 3 (Role 5, Role 6)
+* Chandler Glowicki
+* Brandon Nguyen
+* Member 3
 * Josh Webster
 
 ## Prerequisites
