@@ -7,7 +7,7 @@ Our project is an mobile application that will help guide the user through a med
 * [Chandler Glowicki](https://github.com/ChandlerG09/CIS350-HW2-Glowicki)
 * [Brandon Nguyen](https://github.com/NguyenLam087/CIS350-HW2--Nguyen-)
 * Erik Haney
-* Josh Webster
+* [Josh Webster](https://github.com/webstjos/CIS350-HW2-Webster)
 
 ## Prerequisites
 
