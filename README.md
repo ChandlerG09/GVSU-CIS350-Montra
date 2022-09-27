@@ -6,7 +6,7 @@ Project description (~1 paragraph)
 
 * Chandler Glowicki
 * [Brandon Nguyen](https://github.com/NguyenLam087/CIS350-HW2--Nguyen-)
-* Member 3
+* Erik Haney
 * Josh Webster
 
 ## Prerequisites
