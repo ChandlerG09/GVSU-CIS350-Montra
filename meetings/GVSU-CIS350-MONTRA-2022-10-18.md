@@ -1,4 +1,4 @@
-## October 9th, 2022, Meeting 1
+## October 18th, 2022, Meeting 1
 
 Team name: Montra
 
