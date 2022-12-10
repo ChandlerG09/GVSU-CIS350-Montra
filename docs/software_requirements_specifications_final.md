@@ -49,16 +49,11 @@ This document contains the software requirements specification for our teams Man
 
 # Unit tests
 
-4. UX:
-	1. The usability of the main features of the app shall be intuitive in a way that none or very limited tutorializing is necessary. 
-	2. The interface such as any necessary tutorializing, settings, or main functionality of the reader, shall not be compromised and easily accessible from a default state and despite user input. (The user should not be able to softlock themselves from accessing or seeing the settings if they set the setting icon to black and the background to black for example.)
-	3. The settings menu shall conform to standard usability guidelines.
-	4. The program interface shall be easy to read and understand by the consumer.
-
 | ID | Description | Steps | Input Values | Expected Output | Actual Output | Pass/Fail | Requirement Link |
 	1. | TC01 | Check to see if clicks work | Open the program and click on the buttons to see if it works | No inputs | User should be able to navigate through the app by touch | ?? | ?? | No requirement ids
-	2. | TC02 | Change backround | Go to settings, click on display and choose a new backround | No inputs | The backorund display should change  | ? | ? | No requirment ids
+	2.  TC02 | Change backround | Go to settings, click on display and choose a new backround | No inputs | The backorund display should change  | ? | ? | No requirment ids
 	3. | TC03 | Change time of session | Click on the clock icon on the left side of the timer and input the time length of the session | input a time hh:mm:ss = 01:01:01 | The time of session changes to the user input | ?? | ?? | No requirement ids
 	4. | TC04 | User can add a mantra of there choice | On the homepage there is a text box where it prompts the user to input there mantra | Put any Mantra such as "I am meditating" | The app will update the mantra and be able to read it back to the user | ?? | ?? | No requirement ids
+
 
 
